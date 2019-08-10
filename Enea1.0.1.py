@@ -14,7 +14,7 @@ print(Fore.LIGHTCYAN_EX, end='')
 if '-h' in sys.argv:
 
     print("""
-HashSum is an automatic hash checker.
+Enea is an automatic hash checker.
 
 It reads a csv file and uploads every hash found in it.
 
