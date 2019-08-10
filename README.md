@@ -16,7 +16,7 @@ First you need to tell Enea your VirusTotal API key:
 
 Notes:
 
-Create a .csv file with all the hashes you have, DO NUT PUT ANYTHING THAT IS NOT A HASH INSIDE THIS FILE.
+Create a .csv file with all the hashes you have, DO NOT PUT ANYTHING THAT IS NOT A HASH INSIDE THIS FILE.
 
 Flags:
 
