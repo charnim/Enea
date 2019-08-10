@@ -6,7 +6,11 @@ I have written it for self use and used this tool extensively as a SOC analyst.
 
 Installation:
 
-First you need to tell Enea your VirusTotal API key:
+First install the prerequisite python libraries:
+
+    pip3 install requests colorama tqdm openpyxl
+
+Secondly you need to tell Enea.py your VirusTotal API key:
 
     a) Create a file named key.txt in the same folder as all the .py files.
 

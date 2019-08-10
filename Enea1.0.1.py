@@ -1,5 +1,6 @@
 import sys
-from gittest import VirusTotal, SpreadSheets
+from . import VirusTotal
+from . import SpreadSheets
 import tqdm
 import time
 from colorama import Fore, init
